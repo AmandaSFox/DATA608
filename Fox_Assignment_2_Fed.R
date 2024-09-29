@@ -11,8 +11,9 @@ library(scales)
 # Import datasets 
 #-----------------------------
 
-# Inflation rate: Rolling 12 month calculated from CPI
-inflation_data <- read_csv("C:/Users/amand/Downloads/inflation.csv")
+# Inflation rate: Year over year % change calculated from CPI (baseline 1982-84)
+
+inflation_data <- read_csv("https://raw.githubusercontent.com/AmandaSFox/DATA608/refs/heads/main/inflation.csv?token=GHSAT0AAAAAACYG5Y6CXN26IOQR53HGX5VIZXZ2IGQ")
 inflation_long <- inflation_data %>% 
     pivot_longer(cols = Jan:Dec,
                  names_to = "month_name",
@@ -23,7 +24,8 @@ inflation_long <- inflation_long %>%
 inflation_long
 
 # Unemployment rate 
-unempl_data <- read_csv("C:/Users/amand/Downloads/unempl.csv")
+
+unempl_data <- read_csv("https://raw.githubusercontent.com/AmandaSFox/DATA608/refs/heads/main/unempl.csv?token=GHSAT0AAAAAACYG5Y6D2A4V5SIFT2E7DHICZXZ2IXA")
 unempl_long <- unempl_data %>% 
   pivot_longer(cols = Jan:Dec,
                names_to = "month_name",
@@ -34,7 +36,8 @@ unempl_long <- unempl_long %>%
 unempl_long
 
 # Fed funds CHANGES in rate:
-fed_data <- read_csv("C:/Users/amand/Downloads/fedchange.csv")
+
+fed_data <- read_csv("https://raw.githubusercontent.com/AmandaSFox/DATA608/refs/heads/main/fedchange.csv?token=GHSAT0AAAAAACYG5Y6C7DAPBDPCQQMY326OZXZ2HNQ")
 str(fed_data)
 fed_data <- fed_data %>% 
   mutate(year_month = observation_date,
@@ -46,6 +49,7 @@ fed_data <- fed_data %>%
          highlight_change = significant | consecutive)
 
 # Three economic events
+
 dotcom_start <- as.Date("2000-03-01")
 dotcom_end <- as.Date("2002-10-01")
 gfc_start <- as.Date("2007-12-01")
@@ -54,6 +58,7 @@ covid_start <- as.Date("2020-03-01")
 covid_end <- as.Date("2022-06-01")
 
 # Thresholds for plots
+
 low_inflation <- .03
 moderate_inflation <- .10
 low_unempl <- .04
@@ -127,7 +132,7 @@ fed_plot <- fed_data %>%
 fed_plot
 
 #------------------
-# Significant rate INCREASES 
+# Significant rate INCREASES for inflation plot 
 #------------------
 
 fed_data_sig_incr <- fed_data %>% 
@@ -190,7 +195,7 @@ unempl_plot
 
 
 #---------------
-# Significant rate DECREASES 
+# Significant rate DECREASES for unemployment plot
 #---------------
 
 fed_data_sig_decr <- fed_data %>% 
