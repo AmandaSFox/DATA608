@@ -1,54 +1,54 @@
 Gun Law Strength(Ranked),State,Grade,Gun Death Rate(Ranked),Gun Death Rate(per 100K),Gun Law Strength Gifford Grade,Gun Law Quintile,CDC 2022 Death Rate/100K,Gun Death Quintile
-12,Rhode Island,B+,50,3.1,2,2,3.1,1
-7,Massachusetts,A-,49,3.7,1,1,3.7,1
-6,Hawaii,A-,48,4.5,1,1,4.5,1
-2,New Jersey,A,47,5,1,1,5,1
-5,New York,A-,46,5.3,1,1,5.3,1
-3,Connecticut,A,45,7,1,1,6.9,1
-1,California,A,44,8.7,1,1,8.6,1
-15,Minnesota,B,43,9.7,2,2,9.6,1
-28,New Hampshire,D-,42,10.3,4,3,10.1,1
-34,Iowa,F,41,11.3,5,4,11.2,1
-27,Maine,D-,40,12,4,3,11.7,2
-13,Delaware,B+,39,12.1,2,2,11.9,2
-18,Vermont,B-,38,12.2,2,2,12,2
-23,Nebraska,C-,37,12.3,3,3,12.2,2
-9,Washington,A-,36,12.6,1,1,12.4,2
-8,Maryland,A-,35,13.6,1,1,13.6,2
-30,Utah,F,34,14,5,3,13.7,2
-24,Florida,D+,31,14.4,4,3,14,2
+1,California,A,44,8.7,1,5 - Most Restrictive,8.6,1
+2,New Jersey,A,47,5,1,5 - Most Restrictive,5,1
+3,Connecticut,A,45,7,1,5 - Most Restrictive,6.9,1
+4,Illinois,A-,32,14.4,1,5 - Most Restrictive,14.4,3
+5,New York,A-,46,5.3,1,5 - Most Restrictive,5.3,1
+6,Hawaii,A-,48,4.5,1,5 - Most Restrictive,4.5,1
+7,Massachusetts,A-,49,3.7,1,5 - Most Restrictive,3.7,1
+8,Maryland,A-,35,13.6,1,5 - Most Restrictive,13.6,2
+9,Washington,A-,36,12.6,1,5 - Most Restrictive,12.4,2
+10,Colorado,A-,19,17.3,1,5 - Most Restrictive,17.1,4
+11,Oregon,A-,30,14.6,1,4,14.4,2
+12,Rhode Island,B+,50,3.1,2,4,3.1,1
+13,Delaware,B+,39,12.1,2,4,11.9,2
+14,Virginia,B+,28,15.1,2,4,14.9,3
+15,Minnesota,B,43,9.7,2,4,9.6,1
+16,Pennsylvania,B,29,14.8,2,4,14.7,3
+17,Michigan,B-,27,15.1,2,4,15,3
+18,Vermont,B-,38,12.2,2,4,12,2
+19,Nevada,B-,15,19.3,2,4,18.9,4
+20,New Mexico,C+,3,27.5,3,4,27.3,5
 21,Wisconsin,C,33,14.1,3,3,14,2
-11,Oregon,A-,30,14.6,1,2,14.4,2
-4,Illinois,A-,32,14.4,1,1,14.4,3
-16,Pennsylvania,B,29,14.8,2,2,14.7,3
-14,Virginia,B+,28,15.1,2,2,14.9,3
-17,Michigan,B-,27,15.1,2,2,15,3
-31,Texas,F,25,15.7,5,4,15.3,3
-25,Ohio,D-,26,15.7,4,3,15.6,3
-43,South Dakota,F,24,16.1,5,5,15.7,3
-35,West Virginia,F,23,16.4,5,4,16.2,3
-35,North Dakota,F,22,16.5,5,4,16.4,3
 22,North Carolina,C-,20,17.1,3,3,16.8,3
-42,Kansas,F,21,17,5,5,16.8,4
-46,Idaho,F,18,17.5,5,5,17,4
-10,Colorado,A-,19,17.3,1,1,17.1,4
+23,Nebraska,C-,37,12.3,3,3,12.2,2
+24,Florida,D+,31,14.4,4,3,14,2
+25,Ohio,D-,26,15.7,4,3,15.6,3
 25,Indiana,D-,17,17.6,4,3,17.4,4
-47,Kentucky,F,16,18.9,5,5,18.8,4
-19,Nevada,B-,15,19.3,2,2,18.9,4
-33,Georgia,F,14,20,5,4,19.7,4
-35,Oklahoma,F,13,20.1,5,4,19.8,4
-41,Arizona,F,12,20.5,5,5,20.1,4
-50,Wyoming,F,11,20.6,5,5,20.4,4
-39,Tennessee,F,10,20.9,5,4,20.5,5
+27,Maine,D-,40,12,4,3,11.7,2
+28,New Hampshire,D-,42,10.3,4,3,10.1,1
 28,South Carolina,D-,9,21.3,4,3,20.8,5
-48,Arkansas,F,8,22.1,5,5,21.9,5
-40,Alaska,F,7,22.7,5,4,22.4,5
-45,Montana,F,5,24.5,5,5,23.9,5
-48,Missouri,F,6,24.4,5,5,24.2,5
-35,Alabama,F,4,25.9,5,4,25.5,5
-20,New Mexico,C+,3,27.5,3,2,27.3,5
-32,Louisiana,F,2,28.2,5,4,28.2,5
-44,Mississippi,F,1,29.7,5,5,29.6,5
+30,Utah,F,34,14,5,3,13.7,2
+31,Texas,F,25,15.7,5,2,15.3,3
+32,Louisiana,F,2,28.2,5,2,28.2,5
+33,Georgia,F,14,20,5,2,19.7,4
+34,Iowa,F,41,11.3,5,2,11.2,1
+35,West Virginia,F,23,16.4,5,2,16.2,3
+35,North Dakota,F,22,16.5,5,2,16.4,3
+35,Oklahoma,F,13,20.1,5,2,19.8,4
+35,Alabama,F,4,25.9,5,2,25.5,5
+39,Tennessee,F,10,20.9,5,2,20.5,5
+40,Alaska,F,7,22.7,5,2,22.4,5
+41,Arizona,F,12,20.5,5,1 - Least Restrictive,20.1,4
+42,Kansas,F,21,17,5,1 - Least Restrictive,16.8,4
+43,South Dakota,F,24,16.1,5,1 - Least Restrictive,15.7,3
+44,Mississippi,F,1,29.7,5,1 - Least Restrictive,29.6,5
+45,Montana,F,5,24.5,5,1 - Least Restrictive,23.9,5
+46,Idaho,F,18,17.5,5,1 - Least Restrictive,17,4
+47,Kentucky,F,16,18.9,5,1 - Least Restrictive,18.8,4
+48,Arkansas,F,8,22.1,5,1 - Least Restrictive,21.9,5
+48,Missouri,F,6,24.4,5,1 - Least Restrictive,24.2,5
+50,Wyoming,F,11,20.6,5,1 - Least Restrictive,20.4,4
 ,,,,,,,,
 ,,,,,,,,
 ,,,,,,,,
