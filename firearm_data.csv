@@ -1,14 +1,14 @@
 Gun Law Strength(Ranked),State,Grade,Gun Death Rate(Ranked),Gun Death Rate(per 100K),Gun Law Strength Gifford Grade,Gun Law Quintile,CDC 2022 Death Rate/100K,Gun Death Quintile
-1,California,A,44,8.7,1,5 - Most Restrictive,8.6,1
-2,New Jersey,A,47,5,1,5 - Most Restrictive,5,1
-3,Connecticut,A,45,7,1,5 - Most Restrictive,6.9,1
-4,Illinois,A-,32,14.4,1,5 - Most Restrictive,14.4,3
-5,New York,A-,46,5.3,1,5 - Most Restrictive,5.3,1
-6,Hawaii,A-,48,4.5,1,5 - Most Restrictive,4.5,1
-7,Massachusetts,A-,49,3.7,1,5 - Most Restrictive,3.7,1
-8,Maryland,A-,35,13.6,1,5 - Most Restrictive,13.6,2
-9,Washington,A-,36,12.6,1,5 - Most Restrictive,12.4,2
-10,Colorado,A-,19,17.3,1,5 - Most Restrictive,17.1,4
+1,California,A,44,8.7,1,5,8.6,1
+2,New Jersey,A,47,5,1,5,5,1
+3,Connecticut,A,45,7,1,5,6.9,1
+4,Illinois,A-,32,14.4,1,5,14.4,3
+5,New York,A-,46,5.3,1,5,5.3,1
+6,Hawaii,A-,48,4.5,1,5,4.5,1
+7,Massachusetts,A-,49,3.7,1,5,3.7,1
+8,Maryland,A-,35,13.6,1,5,13.6,2
+9,Washington,A-,36,12.6,1,5,12.4,2
+10,Colorado,A-,19,17.3,1,5,17.1,4
 11,Oregon,A-,30,14.6,1,4,14.4,2
 12,Rhode Island,B+,50,3.1,2,4,3.1,1
 13,Delaware,B+,39,12.1,2,4,11.9,2
@@ -39,16 +39,16 @@ Gun Law Strength(Ranked),State,Grade,Gun Death Rate(Ranked),Gun Death Rate(per 1
 35,Alabama,F,4,25.9,5,2,25.5,5
 39,Tennessee,F,10,20.9,5,2,20.5,5
 40,Alaska,F,7,22.7,5,2,22.4,5
-41,Arizona,F,12,20.5,5,1 - Least Restrictive,20.1,4
-42,Kansas,F,21,17,5,1 - Least Restrictive,16.8,4
-43,South Dakota,F,24,16.1,5,1 - Least Restrictive,15.7,3
-44,Mississippi,F,1,29.7,5,1 - Least Restrictive,29.6,5
-45,Montana,F,5,24.5,5,1 - Least Restrictive,23.9,5
-46,Idaho,F,18,17.5,5,1 - Least Restrictive,17,4
-47,Kentucky,F,16,18.9,5,1 - Least Restrictive,18.8,4
-48,Arkansas,F,8,22.1,5,1 - Least Restrictive,21.9,5
-48,Missouri,F,6,24.4,5,1 - Least Restrictive,24.2,5
-50,Wyoming,F,11,20.6,5,1 - Least Restrictive,20.4,4
+41,Arizona,F,12,20.5,5,1,20.1,4
+42,Kansas,F,21,17,5,1,16.8,4
+43,South Dakota,F,24,16.1,5,1,15.7,3
+44,Mississippi,F,1,29.7,5,1,29.6,5
+45,Montana,F,5,24.5,5,1,23.9,5
+46,Idaho,F,18,17.5,5,1,17,4
+47,Kentucky,F,16,18.9,5,1,18.8,4
+48,Arkansas,F,8,22.1,5,1,21.9,5
+48,Missouri,F,6,24.4,5,1,24.2,5
+50,Wyoming,F,11,20.6,5,1,20.4,4
 ,,,,,,,,
 ,,,,,,,,
 ,,,,,,,,
