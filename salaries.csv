@@ -1,256 +1,256 @@
 role,state,average
-Data Scientist,New York,"$136,172 "
-Data Scientist,Vermont,"$133,828 "
-Data Scientist,California,"$131,441 "
-Data Scientist,Maine,"$127,644 "
-Data Scientist,Idaho,"$126,275 "
-Data Scientist,Washington,"$125,289 "
-Data Scientist,Pennsylvania,"$124,713 "
-Data Scientist,Massachusetts,"$123,188 "
-Data Scientist,Alaska,"$122,407 "
-Data Scientist,New Jersey,"$121,955 "
-Data Scientist,New Hampshire,"$121,666 "
-Data Scientist,Oregon,"$121,011 "
-Data Scientist,North Dakota,"$120,890 "
-Data Scientist,Wisconsin,"$120,117 "
-Data Scientist,Wyoming,"$119,040 "
-Data Scientist,Hawaii,"$118,595 "
-Data Scientist,Colorado,"$117,956 "
-Data Scientist,Indiana,"$116,954 "
-Data Scientist,Nevada,"$115,741 "
-Data Scientist,New Mexico,"$115,421 "
-Data Scientist,Minnesota,"$115,258 "
-Data Scientist,Arizona,"$114,536 "
-Data Scientist,South Dakota,"$114,254 "
-Data Scientist,Montana,"$112,811 "
-Data Scientist,Ohio,"$112,255 "
-Data Scientist,Rhode Island,"$112,085 "
-Data Scientist,Delaware,"$111,877 "
-Data Scientist,Alabama,"$111,402 "
-Data Scientist,Virginia,"$110,662 "
-Data Scientist,Connecticut,"$109,897 "
-Data Scientist,Iowa,"$109,690 "
-Data Scientist,Illinois,"$108,858 "
-Data Scientist,Mississippi,"$108,712 "
-Data Scientist,Maryland,"$108,449 "
-Data Scientist,Tennessee,"$107,174 "
-Data Scientist,Utah,"$106,899 "
-Data Scientist,Nebraska,"$106,424 "
-Data Scientist,Missouri,"$105,000 "
-Data Scientist,South Carolina,"$103,937 "
-Data Scientist,Georgia,"$103,779 "
-Data Scientist,Oklahoma,"$103,063 "
-Data Scientist,Texas,"$102,927 "
-Data Scientist,Kansas,"$102,344 "
-Data Scientist,North Carolina,"$101,792 "
-Data Scientist,Louisiana,"$100,631 "
-Data Scientist,Kentucky,"$97,776 "
-Data Scientist,Michigan,"$97,737 "
-Data Scientist,West Virginia,"$96,317 "
-Data Scientist,Arkansas,"$92,891 "
-Data Scientist,Florida,"$91,843 "
-Data Engineer (Azure),Alaska,"$151,589 "
-Data Engineer (Azure),Massachusetts,"$149,437 "
-Data Engineer (Azure),Washington,"$143,791 "
-Data Engineer (Azure),Nevada,"$143,328 "
-Data Engineer (Azure),Colorado,"$140,921 "
-Data Engineer (Azure),New York,"$132,877 "
-Data Engineer (Azure),Delaware,"$132,332 "
-Data Engineer (Azure),Illinois,"$130,571 "
-Data Engineer (Azure),Virginia,"$130,360 "
-Data Engineer (Azure),Vermont,"$129,813 "
-Data Engineer (Azure),Maryland,"$128,144 "
-Data Engineer (Azure),Nebraska,"$125,368 "
-Data Engineer (Azure),Missouri,"$124,699 "
-Data Engineer (Azure),California,"$123,771 "
-Data Engineer (Azure),South Carolina,"$123,646 "
-Data Engineer (Azure),Oregon,"$123,608 "
-Data Engineer (Azure),North Dakota,"$123,605 "
-Data Engineer (Azure),Pennsylvania,"$121,724 "
-Data Engineer (Azure),Oklahoma,"$121,410 "
-Data Engineer (Azure),Hawaii,"$121,321 "
-Data Engineer (Azure),New Jersey,"$121,305 "
-Data Engineer (Azure),North Carolina,"$121,093 "
-Data Engineer (Azure),Maine,"$120,832 "
-Data Engineer (Azure),Wisconsin,"$120,089 "
-Data Engineer (Azure),Idaho,"$118,437 "
-Data Engineer (Azure),New Hampshire,"$118,398 "
-Data Engineer (Azure),Kentucky,"$117,973 "
-Data Engineer (Azure),Texas,"$117,673 "
-Data Engineer (Azure),South Dakota,"$116,820 "
-Data Engineer (Azure),Michigan,"$116,649 "
-Data Engineer (Azure),Wyoming,"$116,473 "
-Data Engineer (Azure),Minnesota,"$115,939 "
-Data Engineer (Azure),New Mexico,"$115,341 "
-Data Engineer (Azure),Indiana,"$114,899 "
-Data Engineer (Azure),Rhode Island,"$114,492 "
-Data Engineer (Azure),Ohio,"$112,710 "
-Data Engineer (Azure),Arizona,"$112,524 "
-Data Engineer (Azure),Connecticut,"$111,678 "
-Data Engineer (Azure),Arkansas,"$111,416 "
-Data Engineer (Azure),Mississippi,"$110,866 "
-Data Engineer (Azure),Montana,"$110,829 "
-Data Engineer (Azure),Iowa,"$110,803 "
-Data Engineer (Azure),Alabama,"$109,444 "
-Data Engineer (Azure),Utah,"$107,660 "
-Data Engineer (Azure),Tennessee,"$107,606 "
-Data Engineer (Azure),Kansas,"$104,388 "
-Data Engineer (Azure),Georgia,"$101,956 "
-Data Engineer (Azure),Louisiana,"$101,225 "
-Data Engineer (Azure),West Virginia,"$94,008 "
-Data Engineer (Azure),Florida,"$90,232 "
-Data Analyst,New York,"$98,166 "
-Data Analyst,Pennsylvania,"$89,890 "
-Data Analyst,New Hampshire,"$87,898 "
-Data Analyst,New Jersey,"$86,566 "
-Data Analyst,Wyoming,"$85,631 "
-Data Analyst,Washington,"$85,515 "
-Data Analyst,Wisconsin,"$84,902 "
-Data Analyst,Massachusetts,"$84,899 "
-Data Analyst,Alaska,"$84,677 "
-Data Analyst,Oregon,"$83,991 "
-Data Analyst,Indiana,"$83,857 "
-Data Analyst,North Dakota,"$83,837 "
-Data Analyst,Hawaii,"$82,209 "
-Data Analyst,Arizona,"$82,123 "
-Data Analyst,New Mexico,"$81,613 "
-Data Analyst,Colorado,"$81,074 "
-Data Analyst,Minnesota,"$81,053 "
-Data Analyst,Montana,"$80,886 "
-Data Analyst,Nevada,"$80,065 "
-Data Analyst,Alabama,"$79,876 "
-Data Analyst,South Dakota,"$79,235 "
-Data Analyst,Vermont,"$79,108 "
-Data Analyst,Ohio,"$79,063 "
-Data Analyst,Rhode Island,"$77,796 "
-Data Analyst,Iowa,"$76,863 "
-Data Analyst,Delaware,"$76,760 "
-Data Analyst,Connecticut,"$76,617 "
-Data Analyst,Virginia,"$75,872 "
-Data Analyst,Mississippi,"$75,561 "
-Data Analyst,Tennessee,"$75,487 "
-Data Analyst,Utah,"$75,098 "
-Data Analyst,Illinois,"$74,872 "
-Data Analyst,Georgia,"$74,409 "
-Data Analyst,Maryland,"$74,394 "
-Data Analyst,California,"$74,169 "
-Data Analyst,Nebraska,"$72,966 "
-Data Analyst,Maine,"$72,629 "
-Data Analyst,Missouri,"$72,093 "
-Data Analyst,South Carolina,"$71,384 "
-Data Analyst,Kansas,"$71,124 "
-Data Analyst,Idaho,"$70,811 "
-Data Analyst,Louisiana,"$70,765 "
-Data Analyst,Oklahoma,"$70,662 "
-Data Analyst,Texas,"$70,205 "
-Data Analyst,North Carolina,"$69,910 "
-Data Analyst,West Virginia,"$69,422 "
-Data Analyst,Kentucky,"$67,321 "
-Data Analyst,Michigan,"$67,165 "
-Data Analyst,Florida,"$65,851 "
-Data Analyst,Arkansas,"$63,890 "
-BI Developer,Wisconsin,"$122,245 "
-BI Developer,Alaska,"$118,737 "
-BI Developer,Massachusetts,"$118,489 "
-BI Developer,Oregon,"$118,270 "
-BI Developer,North Dakota,"$117,930 "
-BI Developer,Washington,"$117,871 "
-BI Developer,New Mexico,"$117,563 "
-BI Developer,Minnesota,"$115,986 "
-BI Developer,Hawaii,"$115,575 "
-BI Developer,Ohio,"$113,349 "
-BI Developer,Colorado,"$112,758 "
-BI Developer,Nevada,"$112,267 "
-BI Developer,South Dakota,"$111,456 "
-BI Developer,New York,"$111,163 "
-BI Developer,Rhode Island,"$109,546 "
-BI Developer,Iowa,"$109,515 "
-BI Developer,Connecticut,"$108,485 "
-BI Developer,Vermont,"$108,338 "
-BI Developer,Tennessee,"$108,226 "
-BI Developer,Utah,"$107,333 "
-BI Developer,Mississippi,"$106,585 "
-BI Developer,Delaware,"$106,520 "
-BI Developer,Virginia,"$105,191 "
-BI Developer,Illinois,"$104,228 "
-BI Developer,Maryland,"$103,212 "
-BI Developer,New Jersey,"$102,260 "
-BI Developer,California,"$102,027 "
-BI Developer,Pennsylvania,"$101,842 "
-BI Developer,Louisiana,"$101,263 "
-BI Developer,Nebraska,"$101,162 "
-BI Developer,Kansas,"$100,310 "
-BI Developer,Missouri,"$100,134 "
-BI Developer,Maine,"$99,827 "
-BI Developer,South Carolina,"$99,188 "
-BI Developer,New Hampshire,"$98,940 "
-BI Developer,Oklahoma,"$97,968 "
-BI Developer,Wyoming,"$97,546 "
-BI Developer,Idaho,"$97,465 "
-BI Developer,North Carolina,"$97,140 "
-BI Developer,Texas,"$96,687 "
-BI Developer,Indiana,"$96,385 "
-BI Developer,Arizona,"$94,392 "
-BI Developer,Kentucky,"$93,841 "
-BI Developer,Michigan,"$93,393 "
-BI Developer,Montana,"$92,970 "
-BI Developer,Alabama,"$91,809 "
-BI Developer,Arkansas,"$88,939 "
-BI Developer,Georgia,"$85,527 "
-BI Developer,West Virginia,"$78,654 "
-BI Developer,Florida,"$75,693 "
-All Jobs,Washington,"$68,635 "
-All Jobs,New York,"$64,138 "
-All Jobs,Idaho,"$62,479 "
-All Jobs,California,"$61,152 "
-All Jobs,New Hampshire,"$59,561 "
-All Jobs,Vermont,"$58,680 "
-All Jobs,Maine,"$57,699 "
-All Jobs,Massachusetts,"$57,502 "
-All Jobs,Hawaii,"$57,386 "
-All Jobs,Nevada,"$57,069 "
-All Jobs,Tennessee,"$56,418 "
-All Jobs,Arizona,"$56,300 "
-All Jobs,Wyoming,"$56,078 "
-All Jobs,Texas,"$55,670 "
-All Jobs,New Jersey,"$55,484 "
-All Jobs,Connecticut,"$54,982 "
-All Jobs,Indiana,"$54,360 "
-All Jobs,Alaska,"$54,350 "
-All Jobs,Rhode Island,"$54,269 "
-All Jobs,Oregon,"$54,180 "
-All Jobs,Minnesota,"$54,139 "
-All Jobs,West Virginia,"$54,050 "
-All Jobs,Montana,"$53,766 "
-All Jobs,North Dakota,"$52,997 "
-All Jobs,Maryland,"$52,970 "
-All Jobs,Pennsylvania,"$52,764 "
-All Jobs,Virginia,"$51,632 "
-All Jobs,Wisconsin,"$51,404 "
-All Jobs,Ohio,"$51,092 "
-All Jobs,South Dakota,"$50,822 "
-All Jobs,Iowa,"$50,347 "
-All Jobs,Colorado,"$50,203 "
-All Jobs,Utah,"$50,173 "
-All Jobs,Kentucky,"$49,935 "
-All Jobs,Delaware,"$49,926 "
-All Jobs,Nebraska,"$49,842 "
-All Jobs,South Carolina,"$49,147 "
-All Jobs,Alabama,"$49,041 "
-All Jobs,New Mexico,"$48,694 "
-All Jobs,Kansas,"$48,078 "
-All Jobs,Oklahoma,"$47,625 "
-All Jobs,Arkansas,"$47,523 "
-All Jobs,Mississippi,"$47,164 "
-All Jobs,Illinois,"$46,859 "
-All Jobs,Michigan,"$46,820 "
-All Jobs,Missouri,"$46,356 "
-All Jobs,Florida,"$46,191 "
-All Jobs,Georgia,"$45,118 "
-All Jobs,Louisiana,"$43,345 "
-All Jobs,North Carolina,"$41,182 "
-All Jobs,US,"$58,563 "
-Data Analyst,US,"$82,640 "
-Data Scientist,US,"$122,738 "
-Data Engineer (Azure),US,"$129,716 "
-BI Developer,US,"$111,882 "
+Data Scientist,New York,136172
+Data Scientist,Vermont,133828
+Data Scientist,California,131441
+Data Scientist,Maine,127644
+Data Scientist,Idaho,126275
+Data Scientist,Washington,125289
+Data Scientist,Pennsylvania,124713
+Data Scientist,Massachusetts,123188
+Data Scientist,Alaska,122407
+Data Scientist,New Jersey,121955
+Data Scientist,New Hampshire,121666
+Data Scientist,Oregon,121011
+Data Scientist,North Dakota,120890
+Data Scientist,Wisconsin,120117
+Data Scientist,Wyoming,119040
+Data Scientist,Hawaii,118595
+Data Scientist,Colorado,117956
+Data Scientist,Indiana,116954
+Data Scientist,Nevada,115741
+Data Scientist,New Mexico,115421
+Data Scientist,Minnesota,115258
+Data Scientist,Arizona,114536
+Data Scientist,South Dakota,114254
+Data Scientist,Montana,112811
+Data Scientist,Ohio,112255
+Data Scientist,Rhode Island,112085
+Data Scientist,Delaware,111877
+Data Scientist,Alabama,111402
+Data Scientist,Virginia,110662
+Data Scientist,Connecticut,109897
+Data Scientist,Iowa,109690
+Data Scientist,Illinois,108858
+Data Scientist,Mississippi,108712
+Data Scientist,Maryland,108449
+Data Scientist,Tennessee,107174
+Data Scientist,Utah,106899
+Data Scientist,Nebraska,106424
+Data Scientist,Missouri,105000
+Data Scientist,South Carolina,103937
+Data Scientist,Georgia,103779
+Data Scientist,Oklahoma,103063
+Data Scientist,Texas,102927
+Data Scientist,Kansas,102344
+Data Scientist,North Carolina,101792
+Data Scientist,Louisiana,100631
+Data Scientist,Kentucky,97776
+Data Scientist,Michigan,97737
+Data Scientist,West Virginia,96317
+Data Scientist,Arkansas,92891
+Data Scientist,Florida,91843
+Data Engineer (Azure),Alaska,151589
+Data Engineer (Azure),Massachusetts,149437
+Data Engineer (Azure),Washington,143791
+Data Engineer (Azure),Nevada,143328
+Data Engineer (Azure),Colorado,140921
+Data Engineer (Azure),New York,132877
+Data Engineer (Azure),Delaware,132332
+Data Engineer (Azure),Illinois,130571
+Data Engineer (Azure),Virginia,130360
+Data Engineer (Azure),Vermont,129813
+Data Engineer (Azure),Maryland,128144
+Data Engineer (Azure),Nebraska,125368
+Data Engineer (Azure),Missouri,124699
+Data Engineer (Azure),California,123771
+Data Engineer (Azure),South Carolina,123646
+Data Engineer (Azure),Oregon,123608
+Data Engineer (Azure),North Dakota,123605
+Data Engineer (Azure),Pennsylvania,121724
+Data Engineer (Azure),Oklahoma,121410
+Data Engineer (Azure),Hawaii,121321
+Data Engineer (Azure),New Jersey,121305
+Data Engineer (Azure),North Carolina,121093
+Data Engineer (Azure),Maine,120832
+Data Engineer (Azure),Wisconsin,120089
+Data Engineer (Azure),Idaho,118437
+Data Engineer (Azure),New Hampshire,118398
+Data Engineer (Azure),Kentucky,117973
+Data Engineer (Azure),Texas,117673
+Data Engineer (Azure),South Dakota,116820
+Data Engineer (Azure),Michigan,116649
+Data Engineer (Azure),Wyoming,116473
+Data Engineer (Azure),Minnesota,115939
+Data Engineer (Azure),New Mexico,115341
+Data Engineer (Azure),Indiana,114899
+Data Engineer (Azure),Rhode Island,114492
+Data Engineer (Azure),Ohio,112710
+Data Engineer (Azure),Arizona,112524
+Data Engineer (Azure),Connecticut,111678
+Data Engineer (Azure),Arkansas,111416
+Data Engineer (Azure),Mississippi,110866
+Data Engineer (Azure),Montana,110829
+Data Engineer (Azure),Iowa,110803
+Data Engineer (Azure),Alabama,109444
+Data Engineer (Azure),Utah,107660
+Data Engineer (Azure),Tennessee,107606
+Data Engineer (Azure),Kansas,104388
+Data Engineer (Azure),Georgia,101956
+Data Engineer (Azure),Louisiana,101225
+Data Engineer (Azure),West Virginia,94008
+Data Engineer (Azure),Florida,90232
+Data Analyst,New York,98166
+Data Analyst,Pennsylvania,89890
+Data Analyst,New Hampshire,87898
+Data Analyst,New Jersey,86566
+Data Analyst,Wyoming,85631
+Data Analyst,Washington,85515
+Data Analyst,Wisconsin,84902
+Data Analyst,Massachusetts,84899
+Data Analyst,Alaska,84677
+Data Analyst,Oregon,83991
+Data Analyst,Indiana,83857
+Data Analyst,North Dakota,83837
+Data Analyst,Hawaii,82209
+Data Analyst,Arizona,82123
+Data Analyst,New Mexico,81613
+Data Analyst,Colorado,81074
+Data Analyst,Minnesota,81053
+Data Analyst,Montana,80886
+Data Analyst,Nevada,80065
+Data Analyst,Alabama,79876
+Data Analyst,South Dakota,79235
+Data Analyst,Vermont,79108
+Data Analyst,Ohio,79063
+Data Analyst,Rhode Island,77796
+Data Analyst,Iowa,76863
+Data Analyst,Delaware,76760
+Data Analyst,Connecticut,76617
+Data Analyst,Virginia,75872
+Data Analyst,Mississippi,75561
+Data Analyst,Tennessee,75487
+Data Analyst,Utah,75098
+Data Analyst,Illinois,74872
+Data Analyst,Georgia,74409
+Data Analyst,Maryland,74394
+Data Analyst,California,74169
+Data Analyst,Nebraska,72966
+Data Analyst,Maine,72629
+Data Analyst,Missouri,72093
+Data Analyst,South Carolina,71384
+Data Analyst,Kansas,71124
+Data Analyst,Idaho,70811
+Data Analyst,Louisiana,70765
+Data Analyst,Oklahoma,70662
+Data Analyst,Texas,70205
+Data Analyst,North Carolina,69910
+Data Analyst,West Virginia,69422
+Data Analyst,Kentucky,67321
+Data Analyst,Michigan,67165
+Data Analyst,Florida,65851
+Data Analyst,Arkansas,63890
+BI Developer,Wisconsin,122245
+BI Developer,Alaska,118737
+BI Developer,Massachusetts,118489
+BI Developer,Oregon,118270
+BI Developer,North Dakota,117930
+BI Developer,Washington,117871
+BI Developer,New Mexico,117563
+BI Developer,Minnesota,115986
+BI Developer,Hawaii,115575
+BI Developer,Ohio,113349
+BI Developer,Colorado,112758
+BI Developer,Nevada,112267
+BI Developer,South Dakota,111456
+BI Developer,New York,111163
+BI Developer,Rhode Island,109546
+BI Developer,Iowa,109515
+BI Developer,Connecticut,108485
+BI Developer,Vermont,108338
+BI Developer,Tennessee,108226
+BI Developer,Utah,107333
+BI Developer,Mississippi,106585
+BI Developer,Delaware,106520
+BI Developer,Virginia,105191
+BI Developer,Illinois,104228
+BI Developer,Maryland,103212
+BI Developer,New Jersey,102260
+BI Developer,California,102027
+BI Developer,Pennsylvania,101842
+BI Developer,Louisiana,101263
+BI Developer,Nebraska,101162
+BI Developer,Kansas,100310
+BI Developer,Missouri,100134
+BI Developer,Maine,99827
+BI Developer,South Carolina,99188
+BI Developer,New Hampshire,98940
+BI Developer,Oklahoma,97968
+BI Developer,Wyoming,97546
+BI Developer,Idaho,97465
+BI Developer,North Carolina,97140
+BI Developer,Texas,96687
+BI Developer,Indiana,96385
+BI Developer,Arizona,94392
+BI Developer,Kentucky,93841
+BI Developer,Michigan,93393
+BI Developer,Montana,92970
+BI Developer,Alabama,91809
+BI Developer,Arkansas,88939
+BI Developer,Georgia,85527
+BI Developer,West Virginia,78654
+BI Developer,Florida,75693
+All Jobs,Washington,68635
+All Jobs,New York,64138
+All Jobs,Idaho,62479
+All Jobs,California,61152
+All Jobs,New Hampshire,59561
+All Jobs,Vermont,58680
+All Jobs,Maine,57699
+All Jobs,Massachusetts,57502
+All Jobs,Hawaii,57386
+All Jobs,Nevada,57069
+All Jobs,Tennessee,56418
+All Jobs,Arizona,56300
+All Jobs,Wyoming,56078
+All Jobs,Texas,55670
+All Jobs,New Jersey,55484
+All Jobs,Connecticut,54982
+All Jobs,Indiana,54360
+All Jobs,Alaska,54350
+All Jobs,Rhode Island,54269
+All Jobs,Oregon,54180
+All Jobs,Minnesota,54139
+All Jobs,West Virginia,54050
+All Jobs,Montana,53766
+All Jobs,North Dakota,52997
+All Jobs,Maryland,52970
+All Jobs,Pennsylvania,52764
+All Jobs,Virginia,51632
+All Jobs,Wisconsin,51404
+All Jobs,Ohio,51092
+All Jobs,South Dakota,50822
+All Jobs,Iowa,50347
+All Jobs,Colorado,50203
+All Jobs,Utah,50173
+All Jobs,Kentucky,49935
+All Jobs,Delaware,49926
+All Jobs,Nebraska,49842
+All Jobs,South Carolina,49147
+All Jobs,Alabama,49041
+All Jobs,New Mexico,48694
+All Jobs,Kansas,48078
+All Jobs,Oklahoma,47625
+All Jobs,Arkansas,47523
+All Jobs,Mississippi,47164
+All Jobs,Illinois,46859
+All Jobs,Michigan,46820
+All Jobs,Missouri,46356
+All Jobs,Florida,46191
+All Jobs,Georgia,45118
+All Jobs,Louisiana,43345
+All Jobs,North Carolina,41182
+All Jobs,US,58563
+Data Analyst,US,82640
+Data Scientist,US,122738
+Data Engineer (Azure),US,129716
+BI Developer,US,111882
