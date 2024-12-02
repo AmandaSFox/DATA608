@@ -1,25 +1,25 @@
 Age,FI,Metric,Value
-Preschool,FI,Fair/poor health,14.6
-Preschool,FI,Always experiences headaches,8.2
-Preschool,FI,Always experiences stomachaches,9
-Preschool,FI,Colds in past 12 months,3.2
-Preschool,FI,Ear infections (lifetime),1.8
-Preschool,FI,Iron deficiency,11.6
-Preschool,FS,Fair/poor health,3.6
-Preschool,FS,Always experiences headaches,1.6
-Preschool,FS,Always experiences stomachaches,3.3
-Preschool,FS,Colds in past 12 months,2.6
-Preschool,FS,Ear infections (lifetime),2
-Preschool,FS,Iron deficiency,8.6
-School Age,FI,Fair/poor health,12.4
-School Age,FI,Always experiences headaches,13.2
-School Age,FI,Always experiences stomachaches,11.1
-School Age,FI,Colds in past 12 months,2.4
-School Age,FI,Ear infections (lifetime),1.5
-School Age,FI,Iron deficiency,3.9
-School Age,FS,Fair/poor health,4.3
-School Age,FS,Always experiences headaches,8.4
-School Age,FS,Always experiences stomachaches,5.7
-School Age,FS,Colds in past 12 months,1.8
-School Age,FS,Ear infections (lifetime),2
-School Age,FS,Iron deficiency,3.4
+Preschool,FI,Fair/poor health (%),14.6
+Preschool,FI,Always experiences headaches (%),8.2
+Preschool,FI,Always experiences stomachaches (%),9
+Preschool,FI,Colds in past 12 months (mean),3.2
+Preschool,FI,"Ear infections (lifetime, mean)",1.8
+Preschool,FI,Iron deficiency (%),11.6
+Preschool,FS,Fair/poor health (%),3.6
+Preschool,FS,Always experiences headaches (%),1.6
+Preschool,FS,Always experiences stomachaches (%),3.3
+Preschool,FS,Colds in past 12 months (mean),2.6
+Preschool,FS,"Ear infections (lifetime, mean)",2
+Preschool,FS,Iron deficiency (%),8.6
+School Age,FI,Fair/poor health (%),12.4
+School Age,FI,Always experiences headaches (%),13.2
+School Age,FI,Always experiences stomachaches (%),11.1
+School Age,FI,Colds in past 12 months (mean),2.4
+School Age,FI,"Ear infections (lifetime, mean)",1.5
+School Age,FI,Iron deficiency (%),3.9
+School Age,FS,Fair/poor health (%),4.3
+School Age,FS,Always experiences headaches (%),8.4
+School Age,FS,Always experiences stomachaches (%),5.7
+School Age,FS,Colds in past 12 months (mean),1.8
+School Age,FS,"Ear infections (lifetime, mean)",2
+School Age,FS,Iron deficiency (%),3.4
