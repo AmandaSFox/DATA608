@@ -1,32 +1,32 @@
-Critical mineral ,Primary production,Secondary production,Apparent consumption,Primary import source 2019-2022,Net Import Reliance ,????,Consumption Notes,Import source notes,Prod notes,Net import reliance as a percentage of apparent consumption 
-Aluminum (bauxite),W,0,"1,800,000",Jamaica,>75,Net import reliance as a percentage of apparent consumption ,Reported consumption.,Average 2019 to 2022.,,75
+﻿Critical mineral ,Primary production,Secondary production,Apparent consumption,Primary import source 2019-2022,Net Import Reliance ,度量名称,Consumption Notes,Import source notes,Prod notes,Net import reliance as a percentage of apparent consumption 
+Aluminum (bauxite),,0,"1,800,000",Jamaica,>75,Net import reliance as a percentage of apparent consumption ,Reported consumption.,Average 2019 to 2022.,,75
 Antimony,0,"4,000","22,000",China,82,Net import reliance as a percentage of apparent consumption ,,Average 2019 to 2022. Includes Hong Kong.,,82
-Arsenic,0,NA,"6,400",China,100,Net import reliance as a percentage of apparent consumption ,Estimated consumption.,Average 2019 to 2022. Includes Hong Kong.,,100
-Barite,W,0,W,India,>75,Net import reliance as a percentage of apparent consumption ,,Average 2019 to 2022.,,75
-Beryllium,190,NA,150,Kazakhstan,E,Net import reliance as a percentage of apparent consumption ,,Average 2019 to 2022.,,0
+Arsenic,0,,"6,400",China,100,Net import reliance as a percentage of apparent consumption ,Estimated consumption.,Average 2019 to 2022. Includes Hong Kong.,,100
+Barite,,0,,India,>75,Net import reliance as a percentage of apparent consumption ,,Average 2019 to 2022.,,75
+Beryllium,190,,150,Kazakhstan,E,Net import reliance as a percentage of apparent consumption ,,Average 2019 to 2022.,,0
 Bismuth (refined),0,80,"1,400",China,94,Net import reliance as a percentage of apparent consumption ,,Average 2019 to 2022. Includes Hong Kong.,Refinery production.,94
 Chromium,0,"100,000","380,000",South Africa,74,Net import reliance as a percentage of apparent consumption ,,Average 2019 to 2022.,,74
 Cobalt,500,"2,100","6,400",Norway,67,Net import reliance as a percentage of apparent consumption ,,Average 2019 to 2022.,,67
-Fluorspar,NA,0,"370,000",Mexico,100,Net import reliance as a percentage of apparent consumption ,,Average 2019 to 2022.,,100
+Fluorspar,,0,"370,000",Mexico,100,Net import reliance as a percentage of apparent consumption ,,Average 2019 to 2022.,,100
 Gallium,0,0,19,Japan,100,Net import reliance as a percentage of apparent consumption ,Reported consumption.,Average 2019 to 2022.,,100
-Germanium (refined),0,NA,W,Belgium,>50,Net import reliance as a percentage of apparent consumption ,,Average 2019 to 2022.,Refinery production.,50
+Germanium (refined),0,,,Belgium,>50,Net import reliance as a percentage of apparent consumption ,,Average 2019 to 2022.,Refinery production.,50
 Graphite (natural),0,0,"76,000",China,100,Net import reliance as a percentage of apparent consumption ,,Average 2019 to 2022. Includes Hong Kong.,,100
 Indium (refined),0,0,300,Republic of Korea,100,Net import reliance as a percentage of apparent consumption ,Estimated consumption.,Average 2019 to 2022.,Refinery production.,100
-Lithium,W,NA,W,Argentina,>25,Net import reliance as a percentage of apparent consumption ,,Average 2019 to 2022.,,25
-Magnesium (refined),W,"100,000","55,000",Canada,>50,Net import reliance as a percentage of apparent consumption ,Reported consumption.,Average 2019 to 2022.,Refinery production.,50
+Lithium,,,,Argentina,>25,Net import reliance as a percentage of apparent consumption ,,Average 2019 to 2022.,,25
+Magnesium (refined),,"100,000","55,000",Canada,>50,Net import reliance as a percentage of apparent consumption ,Reported consumption.,Average 2019 to 2022.,Refinery production.,50
 Manganese,0,0,"690,000",Gabon,100,Net import reliance as a percentage of apparent consumption ,,Average 2019 to 2022.,,100
-Nickel,"17,000",W,"190,000",Canada,57,Net import reliance as a percentage of apparent consumption ,Nickel in primary metal and secondary scrap.,Average 2019 to 2022.,,57
-Niobium,0,NA,"8,400",Brazil,100,Net import reliance as a percentage of apparent consumption ,,Average 2019 to 2022.,,100
+Nickel,"17,000",,"190,000",Canada,57,Net import reliance as a percentage of apparent consumption ,Nickel in primary metal and secondary scrap.,Average 2019 to 2022.,,57
+Niobium,0,,"8,400",Brazil,100,Net import reliance as a percentage of apparent consumption ,,Average 2019 to 2022.,,100
 Palladium,10,42,82,Russia,37,Net import reliance as a percentage of apparent consumption ,,Average 2019 to 2022.,,37
 Platinum,3,9,70,South Africa,83,Net import reliance as a percentage of apparent consumption ,,Average 2019 to 2022.,,83
-Rare earths (compounds and metals),250,NA,"8,800",China,>95,Net import reliance as a percentage of apparent consumption ,,Average 2019 to 2022. Includes Hong Kong.,"Data include lanthanides cerium, dysprosium, erbium, europium, gadolinium, holmium, lanthanum, lutetium, neodymium, praseodymium, samarium, terbium, thulium, and ytterbium. ",95
-Scandium,0,0,W,Japan,100,Net import reliance as a percentage of apparent consumption ,,Average 2019 to 2022.,,100
-Tantalum,0,NA,370,China,100,Net import reliance as a percentage of apparent consumption ,,Average 2019 to 2022. Includes Hong Kong.,,100
-Tellurium (refined),W,0,W,Canada,>25,Net import reliance as a percentage of apparent consumption ,,Average 2019 to 2022.,Refinery production.,25
+Rare earths (compounds and metals),250,,"8,800",China,>95,Net import reliance as a percentage of apparent consumption ,,Average 2019 to 2022. Includes Hong Kong.,"Data include lanthanides cerium, dysprosium, erbium, europium, gadolinium, holmium, lanthanum, lutetium, neodymium, praseodymium, samarium, terbium, thulium, and ytterbium. ",95
+Scandium,0,0,,Japan,100,Net import reliance as a percentage of apparent consumption ,,Average 2019 to 2022.,,100
+Tantalum,0,,370,China,100,Net import reliance as a percentage of apparent consumption ,,Average 2019 to 2022. Includes Hong Kong.,,100
+Tellurium (refined),,0,,Canada,>25,Net import reliance as a percentage of apparent consumption ,,Average 2019 to 2022.,Refinery production.,25
 Tin,0,"16,900","39,000",Peru,74,Net import reliance as a percentage of apparent consumption ,,Average 2019 to 2022.,,74
-Titanium (metal; refined),W,W,"42,000",Japan,>95,Net import reliance as a percentage of apparent consumption ,Excludes U.S. production.,Average 2019 to 2022.,Refinery production.,95
-Tungsten,0,W,W,China,>50,Net import reliance as a percentage of apparent consumption ,,Average 2019 to 2022. Includes Hong Kong.,,50
+Titanium (metal; refined),,,"42,000",Japan,>95,Net import reliance as a percentage of apparent consumption ,Excludes U.S. production.,Average 2019 to 2022.,Refinery production.,95
+Tungsten,0,,,China,>50,Net import reliance as a percentage of apparent consumption ,,Average 2019 to 2022. Includes Hong Kong.,,50
 Vanadium,0,"5,700","14,000",Canada,58,Net import reliance as a percentage of apparent consumption ,,Average 2019 to 2022.,,58
-Yttrium,NA,0,200,China,100,Net import reliance as a percentage of apparent consumption ,,Average 2019 to 2022. Includes Hong Kong.,,100
-Zinc (refined),"220,000",NA,"970,000",Canada,77,Net import reliance as a percentage of apparent consumption ,,Average 2019 to 2022.,Refinery production. Primary production includes both primary and secondary metal production.,77
-Zirconium (ores and concentrates),"<100,000",NA,"100,000",South Africa,<25,Net import reliance as a percentage of apparent consumption ,,Average 2019 to 2022.,,25
+Yttrium,,0,200,China,100,Net import reliance as a percentage of apparent consumption ,,Average 2019 to 2022. Includes Hong Kong.,,100
+Zinc (refined),"220,000",,"970,000",Canada,77,Net import reliance as a percentage of apparent consumption ,,Average 2019 to 2022.,Refinery production. Primary production includes both primary and secondary metal production.,77
+Zirconium (ores and concentrates),"<100,000",,"100,000",South Africa,<25,Net import reliance as a percentage of apparent consumption ,,Average 2019 to 2022.,,25
